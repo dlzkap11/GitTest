@@ -4,3 +4,6 @@ wa branch
 wa test good
 
 minsoo comitt
+
+
+minsoo!~~

@@ -1,5 +1,4 @@
 wa branch
 
-minsoo attack
 
-minsoo attack2!!
+wa test good
